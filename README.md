@@ -2,7 +2,7 @@
 My journey in self-learning ML.
 
 ## Roadmap
-<ins>**Machine Learning**</ins>
+<ins>Machine Learning</ins>
 
 - **2022 Python for Machine Learning & Data Science Masterclass** - *Jose Portilla*, Udemy
 - **Machine Learning by Stanford University** - *Andrew Ng*, Coursera
