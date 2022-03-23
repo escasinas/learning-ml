@@ -9,5 +9,8 @@ My journey in self-learning ML.
 - **Hands-On Machine Learning with Scikit-Learn and TensorFlow** - *Geron Aurelien*, Book
 
 <ins>**Deep Learning**</ins>
+- **PyTorch for Deep Learning with Python Bootcamp** - *Jose Portilla*, Udemy
+- **Deep Learning for Coders with fastai and PyTorch** - *Jeremy Howard & Sylvain Gugger*, fast.ai
+- **Deep Learning Specialization** - *Andrew Ng*, Coursera
 
 <ins>**Maths**</ins>
