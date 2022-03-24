@@ -14,3 +14,4 @@ My journey in self-learning ML.
 - **Deep Learning Specialization** - *Andrew Ng*, Coursera
 
 <ins>**Maths**</ins>
+- **Mathematics for Machine Learning** - *A. Aldo Faisal, Cheng Soon Ong, and Marc Peter Deisenroth*, Book
