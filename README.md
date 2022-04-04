@@ -6,8 +6,8 @@ My journey in self-learning ML.
 <ins>**Machine Learning**</ins>
 
 - **2022 Python for Machine Learning & Data Science Masterclass** - *Jose Portilla*, Udemy
-- **Machine Learning by Stanford University** - *Andrew Ng*, Coursera
 - **Hands-On Machine Learning with Scikit-Learn and TensorFlow** - *Geron Aurelien*, Book
+- **Machine Learning by Stanford University** - *Andrew Ng*, Coursera
 
 <ins>**Deep Learning**</ins>
 - **PyTorch for Deep Learning with Python Bootcamp** - *Jose Portilla*, Udemy
