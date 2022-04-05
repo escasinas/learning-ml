@@ -1,6 +1,6 @@
 # Machine Learning
 ###### March 2022 - *Present*
-My journey in self-learning ML.
+My journey in self-learning ML
 
 ## Roadmap
 <ins>**Machine Learning**</ins>
