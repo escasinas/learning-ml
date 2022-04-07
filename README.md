@@ -16,3 +16,5 @@ My journey in self-learning ML
 
 <ins>**Maths**</ins>
 - **Mathematics for Machine Learning** - *A. Aldo Faisal, Cheng Soon Ong, and Marc Peter Deisenroth*, Book
+
+<ins>**Kaggle Courses**</ins>
