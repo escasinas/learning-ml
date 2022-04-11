@@ -20,3 +20,4 @@ My journey in self-learning ML
 <ins>**Kaggle Courses**</ins>
 - ~~Intro to Machine Learning~~
 - Pandas
+- Intermediate Machine Learning
