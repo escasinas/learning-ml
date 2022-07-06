@@ -15,7 +15,7 @@ c.NotebookApp.port = <PORT> # pick any port number
 
 3) Run `jupyter notebook` on the remote machine
 
-4) On the host machine, set up an SSH tunnel
+4) On your host machine, set up an SSH tunnel
 ```
 ssh -L <PORT>:localhost:<PORT> user@remote_host
 ```
