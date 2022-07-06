@@ -20,4 +20,4 @@ c.NotebookApp.port = <PORT> # pick any port number
 ssh -L <PORT>:localhost:<PORT> user@remote_host
 ```
 
-5) On your host browser, go to http://localhost:\<PORT\>/
+5) On your host browser, go to `http://localhost:<PORT>/`
